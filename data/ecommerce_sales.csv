@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Total_Amount,City,Payment_Method
+ORD00001,2025-11-24,CUST0029,Karan Malhotra,Bluetooth Speaker,Electronics,2,1999,3998,Hyderabad,Credit Card
+ORD00002,2025-02-22,CUST0174,Pooja Yadav,Data Science Handbook,Books,5,899,4495,Chennai,UPI
+ORD00003,2025-01-16,CUST0024,Sneha Das,Jeans,Clothing,5,1499,7495,Noida,UPI
+ORD00004,2025-10-15,CUST0051,Aman Khan,Machine Learning Basics,Books,2,999,1998,Jaipur,Cash on Delivery
+ORD00005,2025-05-23,CUST0002,Ananya Singh,Sneakers,Clothing,3,2499,7497,Kolkata,Credit Card
+ORD00006,2025-04-21,CUST0087,Aman Khan,Wireless Headphones,Electronics,4,2499,9996,Mumbai,Debit Card
+ORD00007,2025-06-26,CUST0155,Karan Malhotra,Coffee Maker,Home & Kitchen,4,3299,13196,Lucknow,UPI
+ORD00008,2025-07-13,CUST0021,Rohan Gupta,Business Analytics,Books,5,799,3995,Pune,Cash on Delivery
+ORD00009,2025-04-09,CUST0018,Tanya Bose,Smart Watch,Electronics,3,3499,10497,Mumbai,Credit Card
+ORD00010,2025-02-21,CUST0098,Neha Patel,Non-Stick Pan,Home & Kitchen,3,1299,3897,Bengaluru,Debit Card
+ORD00011,2025-07-01,CUST0054,Tanya Bose,Coffee Maker,Home & Kitchen,5,3299,16495,Bengaluru,Cash on Delivery
+ORD00012,2025-05-06,CUST0042,Sneha Das,Moisturizer,Beauty,3,549,1647,Lucknow,Credit Card
+ORD00013,2025-12-17,CUST0084,Pooja Yadav,Smart Watch,Electronics,1,3499,3499,Pune,Net Banking
+ORD00014,2025-05-18,CUST0017,Nikhil Jain,Hoodie,Clothing,2,1799,3598,Jaipur,Net Banking
+ORD00015,2025-11-26,CUST0118,Ishita Sen,Hoodie,Clothing,2,1799,3598,Hyderabad,Cash on Delivery
+ORD00016,2025-10-03,CUST0068,Riya Kapoor,Machine Learning Basics,Books,5,999,4995,Chennai,Debit Card
+ORD00017,2025-04-23,CUST0036,Tanya Bose,Machine Learning Basics,Books,1,999,999,Delhi,UPI
+ORD00018,2025-03-20,CUST0161,Nikhil Jain,Sneakers,Clothing,5,2499,12495,Mumbai,Net Banking
+ORD00019,2025-07-15,CUST0153,Arjun Mehta,Shampoo,Beauty,5,499,2495,Delhi,UPI
+ORD00020,2025-12-16,CUST0138,Pooja Yadav,Water Bottle,Home & Kitchen,1,699,699,Kolkata,Net Banking
+ORD00021,2025-03-22,CUST0117,Arjun Mehta,Bluetooth Speaker,Electronics,5,1999,9995,Bengaluru,Cash on Delivery
+ORD00022,2025-02-24,CUST0161,Nikhil Jain,Air Fryer,Home & Kitchen,2,4999,9998,Pune,Credit Card
+ORD00023,2025-10-04,CUST0136,Ishita Sen,Bluetooth Speaker,Electronics,4,1999,7996,Delhi,UPI
+ORD00024,2025-07-05,CUST0079,Rahul Roy,T-Shirt,Clothing,2,799,1598,Noida,UPI
+ORD00025,2025-02-13,CUST0125,Nikhil Jain,Smart Watch,Electronics,2,3499,6998,Jaipur,Cash on Delivery
+ORD00026,2025-03-26,CUST0068,Riya Kapoor,Machine Learning Basics,Books,2,999,1998,Lucknow,Credit Card
+ORD00027,2025-06-09,CUST0103,Vivek Mishra,Non-Stick Pan,Home & Kitchen,5,1299,6495,Jaipur,UPI
+ORD00028,2025-05-07,CUST0058,Priya Verma,Bluetooth Speaker,Electronics,1,1999,1999,Noida,Cash on Delivery
+ORD00029,2025-04-28,CUST0151,Rahul Roy,T-Shirt,Clothing,1,799,799,Delhi,Credit Card
+ORD00030,2025-02-04,CUST0009,Arjun Mehta,Coffee Maker,Home & Kitchen,5,3299,16495,Hyderabad,Debit Card
+ORD00031,2025-12-09,CUST0125,Nikhil Jain,Jeans,Clothing,5,1499,7495,Noida,Net Banking
+ORD00032,2025-05-05,CUST0122,Riya Kapoor,Sunscreen,Beauty,1,599,599,Mumbai,Net Banking
+ORD00033,2025-07-01,CUST0109,Aarav Sharma,Moisturizer,Beauty,1,549,549,Mumbai,UPI
+ORD00034,2025-07-26,CUST0087,Aman Khan,Smart Watch,Electronics,2,3499,6998,Hyderabad,Cash on Delivery
+ORD00035,2025-08-18,CUST0036,Tanya Bose,Sunscreen,Beauty,3,599,1797,Jaipur,Credit Card
+ORD00036,2025-02-08,CUST0114,Sneha Das,Data Science Handbook,Books,1,899,899,Lucknow,UPI
+ORD00037,2025-02-17,CUST0061,Rahul Roy,Sneakers,Clothing,4,2499,9996,Jaipur,Credit Card
+ORD00038,2025-07-25,CUST0016,Simran Kaur,Sneakers,Clothing,1,2499,2499,Chennai,Debit Card
+ORD00039,2025-08-21,CUST0074,Ananya Singh,Moisturizer,Beauty,2,549,1098,Hyderabad,Debit Card
+ORD00040,2025-04-22,CUST0015,Aman Khan,Data Science Handbook,Books,3,899,2697,Delhi,UPI
+ORD00041,2025-10-27,CUST0123,Aman Khan,Python Programming,Books,1,699,699,Lucknow,UPI
+ORD00042,2025-04-06,CUST0018,Tanya Bose,Data Science Handbook,Books,2,899,1798,Chennai,UPI
+ORD00043,2025-10-19,CUST0064,Ishita Sen,Data Science Handbook,Books,5,899,4495,Mumbai,Net Banking
+ORD00044,2025-12-03,CUST0150,Sneha Das,Business Analytics,Books,3,799,2397,Hyderabad,Debit Card
+ORD00045,2025-05-03,CUST0068,Riya Kapoor,Sunscreen,Beauty,3,599,1797,Jaipur,Debit Card
+ORD00046,2025-02-07,CUST0003,Rohan Gupta,Face Wash,Beauty,1,399,399,Lucknow,Credit Card
+ORD00047,2025-09-17,CUST0068,Riya Kapoor,Hoodie,Clothing,1,1799,1799,Hyderabad,Debit Card
+ORD00048,2025-05-26,CUST0041,Aditya Kumar,Shampoo,Beauty,5,499,2495,Lucknow,UPI
+ORD00049,2025-12-08,CUST0142,Simran Kaur,Coffee Maker,Home & Kitchen,2,3299,6598,Kolkata,UPI
+ORD00050,2025-02-24,CUST0142,Simran Kaur,Hoodie,Clothing,3,1799,5397,Noida,Credit Card
+ORD00051,2025-06-25,CUST0053,Nikhil Jain,Non-Stick Pan,Home & Kitchen,3,1299,3897,Delhi,UPI
+ORD00052,2025-11-21,CUST0109,Aarav Sharma,Coffee Maker,Home & Kitchen,1,3299,3299,Pune,Credit Card
+ORD00053,2025-11-23,CUST0068,Riya Kapoor,Sneakers,Clothing,5,2499,12495,Chennai,Cash on Delivery
+ORD00054,2025-01-05,CUST0029,Karan Malhotra,Smart Watch,Electronics,5,3499,17495,Delhi,Debit Card
+ORD00055,2025-10-26,CUST0142,Simran Kaur,Sneakers,Clothing,2,2499,4998,Delhi,Debit Card
+ORD00056,2025-07-06,CUST0011,Karan Malhotra,Air Fryer,Home & Kitchen,2,4999,9998,Mumbai,Debit Card
+ORD00057,2025-10-14,CUST0105,Aman Khan,Python Programming,Books,2,699,1398,Bengaluru,Credit Card
+ORD00058,2025-07-31,CUST0007,Rahul Roy,Hoodie,Clothing,4,1799,7196,Hyderabad,Debit Card
+ORD00059,2025-03-23,CUST0180,Tanya Bose,USB-C Charger,Electronics,1,899,899,Jaipur,Credit Card
+ORD00060,2025-04-13,CUST0118,Ishita Sen,Water Bottle,Home & Kitchen,2,699,1398,Hyderabad,UPI
+ORD00061,2025-12-04,CUST0050,Riya Kapoor,Shampoo,Beauty,3,499,1497,Mumbai,Debit Card
+ORD00062,2025-06-29,CUST0165,Rohan Gupta,Machine Learning Basics,Books,5,999,4995,Pune,UPI
+ORD00063,2025-03-01,CUST0067,Vivek Mishra,Hoodie,Clothing,1,1799,1799,Mumbai,Cash on Delivery
+ORD00064,2025-08-11,CUST0089,Nikhil Jain,Non-Stick Pan,Home & Kitchen,5,1299,6495,Lucknow,UPI
+ORD00065,2025-07-17,CUST0148,Priya Verma,Hoodie,Clothing,1,1799,1799,Chennai,UPI
+ORD00066,2025-09-24,CUST0138,Pooja Yadav,Hoodie,Clothing,4,1799,7196,Mumbai,Debit Card
+ORD00067,2025-11-16,CUST0081,Arjun Mehta,Bluetooth Speaker,Electronics,5,1999,9995,Kolkata,Net Banking
+ORD00068,2025-06-17,CUST0104,Riya Kapoor,Air Fryer,Home & Kitchen,2,4999,9998,Chennai,Net Banking
+ORD00069,2025-12-13,CUST0045,Arjun Mehta,Business Analytics,Books,4,799,3196,Lucknow,UPI
+ORD00070,2025-06-05,CUST0074,Ananya Singh,Sneakers,Clothing,5,2499,12495,Noida,Debit Card
+ORD00071,2025-08-27,CUST0114,Sneha Das,Sunscreen,Beauty,5,599,2995,Jaipur,Credit Card
+ORD00072,2025-12-04,CUST0022,Priya Verma,Water Bottle,Home & Kitchen,1,699,699,Hyderabad,Debit Card
+ORD00073,2025-04-26,CUST0051,Aman Khan,T-Shirt,Clothing,1,799,799,Hyderabad,Net Banking
+ORD00074,2025-11-09,CUST0019,Aarav Sharma,Moisturizer,Beauty,5,549,2745,Hyderabad,Net Banking
+ORD00075,2025-09-11,CUST0103,Vivek Mishra,Jeans,Clothing,1,1499,1499,Mumbai,Net Banking
+ORD00076,2025-04-23,CUST0046,Ishita Sen,Machine Learning Basics,Books,1,999,999,Lucknow,Credit Card
+ORD00077,2025-03-04,CUST0117,Arjun Mehta,Sneakers,Clothing,5,2499,12495,Lucknow,Cash on Delivery
+ORD00078,2025-06-12,CUST0114,Sneha Das,Machine Learning Basics,Books,5,999,4995,Jaipur,Credit Card
+ORD00079,2025-09-01,CUST0116,Neha Patel,Air Fryer,Home & Kitchen,3,4999,14997,Lucknow,Net Banking
+ORD00080,2025-11-17,CUST0062,Neha Patel,Non-Stick Pan,Home & Kitchen,1,1299,1299,Kolkata,Credit Card
+ORD00081,2025-05-20,CUST0086,Riya Kapoor,Coffee Maker,Home & Kitchen,2,3299,6598,Bengaluru,Credit Card
+ORD00082,2025-07-16,CUST0178,Simran Kaur,Jeans,Clothing,1,1499,1499,Chennai,Net Banking
+ORD00083,2025-06-19,CUST0139,Vivek Mishra,Moisturizer,Beauty,1,549,549,Hyderabad,Net Banking
+ORD00084,2025-07-19,CUST0150,Sneha Das,USB-C Charger,Electronics,4,899,3596,Delhi,Debit Card
+ORD00085,2025-06-02,CUST0100,Ishita Sen,Sunscreen,Beauty,4,599,2396,Hyderabad,Debit Card
+ORD00086,2025-08-12,CUST0125,Nikhil Jain,USB-C Charger,Electronics,3,899,2697,Chennai,Credit Card
+ORD00087,2025-08-28,CUST0033,Aman Khan,Data Science Handbook,Books,4,899,3596,Noida,Cash on Delivery
+ORD00088,2025-12-06,CUST0007,Rahul Roy,USB-C Charger,Electronics,2,899,1798,Jaipur,Credit Card
+ORD00089,2025-01-26,CUST0067,Vivek Mishra,Shampoo,Beauty,2,499,998,Jaipur,Debit Card
+ORD00090,2025-06-22,CUST0098,Neha Patel,Non-Stick Pan,Home & Kitchen,3,1299,3897,Mumbai,Net Banking
+ORD00091,2025-01-10,CUST0139,Vivek Mishra,Bluetooth Speaker,Electronics,2,1999,3998,Mumbai,UPI
+ORD00092,2025-01-16,CUST0064,Ishita Sen,T-Shirt,Clothing,5,799,3995,Bengaluru,Credit Card
+ORD00093,2025-03-06,CUST0122,Riya Kapoor,Smart Watch,Electronics,4,3499,13996,Kolkata,Debit Card
+ORD00094,2025-03-27,CUST0156,Pooja Yadav,Data Science Handbook,Books,2,899,1798,Kolkata,UPI
+ORD00095,2025-10-24,CUST0007,Rahul Roy,Non-Stick Pan,Home & Kitchen,4,1299,5196,Hyderabad,UPI
+ORD00096,2025-10-31,CUST0177,Aman Khan,T-Shirt,Clothing,3,799,2397,Noida,UPI
+ORD00097,2025-10-17,CUST0011,Karan Malhotra,Non-Stick Pan,Home & Kitchen,3,1299,3897,Mumbai,Cash on Delivery
+ORD00098,2025-11-28,CUST0088,Simran Kaur,USB-C Charger,Electronics,4,899,3596,Mumbai,Net Banking
+ORD00099,2025-07-05,CUST0163,Aarav Sharma,Sunscreen,Beauty,4,599,2396,Bengaluru,Cash on Delivery
+ORD00100,2025-11-30,CUST0070,Simran Kaur,Machine Learning Basics,Books,4,999,3996,Chennai,Cash on Delivery
+ORD00101,2025-05-18,CUST0083,Karan Malhotra,T-Shirt,Clothing,3,799,2397,Jaipur,Credit Card
+ORD00102,2025-08-26,CUST0146,Ananya Singh,Machine Learning Basics,Books,3,999,2997,Delhi,Net Banking
+ORD00103,2025-06-16,CUST0047,Karan Malhotra,Sunscreen,Beauty,3,599,1797,Kolkata,Debit Card
+ORD00104,2025-05-24,CUST0153,Arjun Mehta,Coffee Maker,Home & Kitchen,5,3299,16495,Hyderabad,UPI
+ORD00105,2025-05-04,CUST0105,Aman Khan,Sunscreen,Beauty,4,599,2396,Jaipur,Net Banking
+ORD00106,2025-01-09,CUST0024,Sneha Das,Air Fryer,Home & Kitchen,4,4999,19996,Hyderabad,Debit Card
+ORD00107,2025-12-06,CUST0149,Aditya Kumar,Non-Stick Pan,Home & Kitchen,5,1299,6495,Lucknow,Debit Card
+ORD00108,2025-08-06,CUST0141,Aman Khan,Water Bottle,Home & Kitchen,4,699,2796,Kolkata,Debit Card
+ORD00109,2025-05-09,CUST0060,Sneha Das,Smart Watch,Electronics,3,3499,10497,Mumbai,Cash on Delivery
+ORD00110,2025-12-20,CUST0048,Pooja Yadav,Jeans,Clothing,4,1499,5996,Kolkata,Cash on Delivery
+ORD00111,2025-09-26,CUST0153,Arjun Mehta,Coffee Maker,Home & Kitchen,2,3299,6598,Kolkata,Credit Card
+ORD00112,2025-07-04,CUST0046,Ishita Sen,Coffee Maker,Home & Kitchen,5,3299,16495,Bengaluru,Debit Card
+ORD00113,2025-01-24,CUST0014,Riya Kapoor,Business Analytics,Books,2,799,1598,Jaipur,UPI
+ORD00114,2025-01-07,CUST0147,Rohan Gupta,Non-Stick Pan,Home & Kitchen,4,1299,5196,Jaipur,Debit Card
+ORD00115,2025-04-05,CUST0014,Riya Kapoor,Non-Stick Pan,Home & Kitchen,1,1299,1299,Mumbai,Net Banking
+ORD00116,2025-09-09,CUST0019,Aarav Sharma,Data Science Handbook,Books,2,899,1798,Bengaluru,Cash on Delivery
+ORD00117,2025-06-05,CUST0022,Priya Verma,T-Shirt,Clothing,5,799,3995,Chennai,Cash on Delivery
+ORD00118,2025-11-02,CUST0159,Aman Khan,Sneakers,Clothing,4,2499,9996,Jaipur,Debit Card
+ORD00119,2025-10-29,CUST0110,Ananya Singh,Coffee Maker,Home & Kitchen,5,3299,16495,Mumbai,Credit Card
+ORD00120,2025-11-17,CUST0055,Aarav Sharma,Coffee Maker,Home & Kitchen,2,3299,6598,Hyderabad,Credit Card
+ORD00121,2025-10-10,CUST0020,Ananya Singh,T-Shirt,Clothing,4,799,3196,Jaipur,Cash on Delivery
+ORD00122,2025-08-29,CUST0075,Rohan Gupta,Smart Watch,Electronics,3,3499,10497,Kolkata,Net Banking
+ORD00123,2025-02-06,CUST0176,Riya Kapoor,Hoodie,Clothing,5,1799,8995,Hyderabad,Net Banking
+ORD00124,2025-02-28,CUST0140,Riya Kapoor,Jeans,Clothing,3,1499,4497,Bengaluru,UPI
+ORD00125,2025-01-31,CUST0043,Rahul Roy,Water Bottle,Home & Kitchen,4,699,2796,Mumbai,Net Banking
+ORD00126,2025-12-19,CUST0078,Sneha Das,Shampoo,Beauty,5,499,2495,Lucknow,Net Banking
+ORD00127,2025-08-13,CUST0021,Rohan Gupta,Data Science Handbook,Books,4,899,3596,Pune,Cash on Delivery
+ORD00128,2025-05-09,CUST0007,Rahul Roy,Smart Watch,Electronics,5,3499,17495,Noida,UPI
+ORD00129,2025-12-11,CUST0069,Aman Khan,Data Science Handbook,Books,2,899,1798,Jaipur,Cash on Delivery
+ORD00130,2025-11-30,CUST0114,Sneha Das,Air Fryer,Home & Kitchen,5,4999,24995,Chennai,Net Banking
+ORD00131,2025-02-16,CUST0121,Vivek Mishra,Non-Stick Pan,Home & Kitchen,3,1299,3897,Pune,UPI
+ORD00132,2025-03-24,CUST0085,Vivek Mishra,Moisturizer,Beauty,3,549,1647,Chennai,Cash on Delivery
+ORD00133,2025-01-19,CUST0117,Arjun Mehta,Bluetooth Speaker,Electronics,3,1999,5997,Pune,UPI
+ORD00134,2025-07-26,CUST0132,Sneha Das,USB-C Charger,Electronics,4,899,3596,Delhi,Credit Card
+ORD00135,2025-09-23,CUST0093,Rohan Gupta,Machine Learning Basics,Books,4,999,3996,Delhi,Credit Card
+ORD00136,2025-05-17,CUST0141,Aman Khan,Hoodie,Clothing,4,1799,7196,Jaipur,UPI
+ORD00137,2025-01-15,CUST0162,Tanya Bose,Python Programming,Books,2,699,1398,Kolkata,Cash on Delivery
+ORD00138,2025-01-08,CUST0142,Simran Kaur,Face Wash,Beauty,2,399,798,Mumbai,Net Banking
+ORD00139,2025-03-02,CUST0166,Priya Verma,Sneakers,Clothing,3,2499,7497,Lucknow,Debit Card
+ORD00140,2025-08-01,CUST0124,Simran Kaur,Sunscreen,Beauty,4,599,2396,Lucknow,Credit Card
+ORD00141,2025-07-16,CUST0049,Vivek Mishra,Python Programming,Books,1,699,699,Kolkata,Net Banking
+ORD00142,2025-06-24,CUST0130,Priya Verma,Coffee Maker,Home & Kitchen,3,3299,9897,Kolkata,Cash on Delivery
+ORD00143,2025-10-24,CUST0169,Rahul Roy,Sunscreen,Beauty,4,599,2396,Lucknow,Net Banking
+ORD00144,2025-06-26,CUST0086,Riya Kapoor,Machine Learning Basics,Books,4,999,3996,Pune,Credit Card
+ORD00145,2025-12-24,CUST0062,Neha Patel,Machine Learning Basics,Books,2,999,1998,Chennai,UPI
+ORD00146,2025-06-12,CUST0122,Riya Kapoor,Moisturizer,Beauty,2,549,1098,Jaipur,UPI
+ORD00147,2025-03-06,CUST0129,Rohan Gupta,Business Analytics,Books,1,799,799,Jaipur,UPI
+ORD00148,2025-09-27,CUST0117,Arjun Mehta,Smart Watch,Electronics,4,3499,13996,Bengaluru,UPI
+ORD00149,2025-08-29,CUST0068,Riya Kapoor,Non-Stick Pan,Home & Kitchen,1,1299,1299,Pune,Cash on Delivery
+ORD00150,2025-07-14,CUST0082,Ishita Sen,Face Wash,Beauty,5,399,1995,Mumbai,Credit Card
+ORD00151,2025-11-20,CUST0176,Riya Kapoor,Air Fryer,Home & Kitchen,1,4999,4999,Chennai,UPI
+ORD00152,2025-11-21,CUST0026,Neha Patel,Sunscreen,Beauty,3,599,1797,Delhi,UPI
+ORD00153,2025-06-16,CUST0015,Aman Khan,Water Bottle,Home & Kitchen,3,699,2097,Chennai,Credit Card
+ORD00154,2025-05-06,CUST0136,Ishita Sen,Sunscreen,Beauty,2,599,1198,Bengaluru,UPI
+ORD00155,2025-11-09,CUST0098,Neha Patel,Python Programming,Books,4,699,2796,Noida,Credit Card
+ORD00156,2025-04-29,CUST0119,Karan Malhotra,Non-Stick Pan,Home & Kitchen,3,1299,3897,Delhi,Net Banking
+ORD00157,2025-05-28,CUST0174,Pooja Yadav,Python Programming,Books,1,699,699,Jaipur,Debit Card
+ORD00158,2025-10-28,CUST0077,Aditya Kumar,Shampoo,Beauty,4,499,1996,Kolkata,Credit Card
+ORD00159,2025-07-16,CUST0124,Simran Kaur,Smart Watch,Electronics,4,3499,13996,Noida,Debit Card
+ORD00160,2025-10-22,CUST0076,Priya Verma,Coffee Maker,Home & Kitchen,4,3299,13196,Kolkata,UPI
+ORD00161,2025-10-17,CUST0176,Riya Kapoor,USB-C Charger,Electronics,3,899,2697,Hyderabad,Cash on Delivery
+ORD00162,2025-06-30,CUST0057,Rohan Gupta,Hoodie,Clothing,2,1799,3598,Mumbai,UPI
+ORD00163,2025-06-08,CUST0113,Aditya Kumar,Bluetooth Speaker,Electronics,2,1999,3998,Mumbai,Debit Card
+ORD00164,2025-06-17,CUST0107,Nikhil Jain,Jeans,Clothing,2,1499,2998,Lucknow,Debit Card
+ORD00165,2025-09-29,CUST0129,Rohan Gupta,Air Fryer,Home & Kitchen,3,4999,14997,Jaipur,Debit Card
+ORD00166,2025-06-23,CUST0030,Pooja Yadav,Face Wash,Beauty,2,399,798,Hyderabad,Net Banking
+ORD00167,2025-10-13,CUST0094,Priya Verma,USB-C Charger,Electronics,1,899,899,Kolkata,Cash on Delivery
+ORD00168,2025-03-05,CUST0117,Arjun Mehta,Water Bottle,Home & Kitchen,5,699,3495,Chennai,Debit Card
+ORD00169,2025-02-25,CUST0173,Karan Malhotra,Sneakers,Clothing,1,2499,2499,Noida,Cash on Delivery
+ORD00170,2025-06-17,CUST0157,Vivek Mishra,T-Shirt,Clothing,4,799,3196,Kolkata,Net Banking
+ORD00171,2025-03-01,CUST0036,Tanya Bose,Wireless Headphones,Electronics,3,2499,7497,Jaipur,UPI
+ORD00172,2025-02-19,CUST0061,Rahul Roy,Python Programming,Books,4,699,2796,Jaipur,Debit Card
+ORD00173,2025-12-10,CUST0179,Nikhil Jain,Machine Learning Basics,Books,5,999,4995,Bengaluru,Net Banking
+ORD00174,2025-12-02,CUST0026,Neha Patel,Moisturizer,Beauty,3,549,1647,Delhi,Debit Card
+ORD00175,2025-04-22,CUST0114,Sneha Das,Sunscreen,Beauty,3,599,1797,Mumbai,Debit Card
+ORD00176,2025-10-06,CUST0166,Priya Verma,Coffee Maker,Home & Kitchen,4,3299,13196,Kolkata,Credit Card
+ORD00177,2025-03-04,CUST0117,Arjun Mehta,Smart Watch,Electronics,5,3499,17495,Delhi,UPI
+ORD00178,2025-06-20,CUST0063,Arjun Mehta,Jeans,Clothing,1,1499,1499,Lucknow,Credit Card
+ORD00179,2025-10-28,CUST0056,Ananya Singh,Hoodie,Clothing,2,1799,3598,Noida,UPI
+ORD00180,2025-05-22,CUST0038,Ananya Singh,Hoodie,Clothing,2,1799,3598,Mumbai,UPI
+ORD00181,2025-03-09,CUST0004,Priya Verma,Air Fryer,Home & Kitchen,5,4999,24995,Pune,UPI
+ORD00182,2025-03-31,CUST0068,Riya Kapoor,Smart Watch,Electronics,4,3499,13996,Lucknow,UPI
+ORD00183,2025-02-02,CUST0122,Riya Kapoor,Shampoo,Beauty,5,499,2495,Noida,UPI
+ORD00184,2025-08-20,CUST0129,Rohan Gupta,T-Shirt,Clothing,5,799,3995,Kolkata,Net Banking
+ORD00185,2025-11-26,CUST0008,Neha Patel,USB-C Charger,Electronics,4,899,3596,Chennai,UPI
+ORD00186,2025-09-09,CUST0114,Sneha Das,Wireless Headphones,Electronics,3,2499,7497,Noida,Credit Card
+ORD00187,2025-02-03,CUST0033,Aman Khan,Water Bottle,Home & Kitchen,4,699,2796,Noida,Cash on Delivery
+ORD00188,2025-05-31,CUST0117,Arjun Mehta,Machine Learning Basics,Books,1,999,999,Mumbai,Cash on Delivery
+ORD00189,2025-04-21,CUST0111,Rohan Gupta,Sunscreen,Beauty,4,599,2396,Pune,Net Banking
+ORD00190,2025-07-24,CUST0107,Nikhil Jain,Bluetooth Speaker,Electronics,4,1999,7996,Pune,Debit Card
+ORD00191,2025-07-11,CUST0040,Priya Verma,Face Wash,Beauty,1,399,399,Mumbai,UPI
+ORD00192,2025-08-10,CUST0025,Rahul Roy,Air Fryer,Home & Kitchen,5,4999,24995,Delhi,Cash on Delivery
+ORD00193,2025-10-15,CUST0144,Tanya Bose,Coffee Maker,Home & Kitchen,4,3299,13196,Pune,Net Banking
+ORD00194,2025-01-27,CUST0074,Ananya Singh,Business Analytics,Books,3,799,2397,Mumbai,Cash on Delivery
+ORD00195,2025-09-17,CUST0055,Aarav Sharma,Sneakers,Clothing,2,2499,4998,Mumbai,Debit Card
+ORD00196,2025-10-12,CUST0095,Aditya Kumar,Bluetooth Speaker,Electronics,5,1999,9995,Hyderabad,Net Banking
+ORD00197,2025-10-15,CUST0160,Simran Kaur,Data Science Handbook,Books,5,899,4495,Kolkata,UPI
+ORD00198,2025-04-03,CUST0070,Simran Kaur,Water Bottle,Home & Kitchen,3,699,2097,Delhi,Credit Card
+ORD00199,2025-03-15,CUST0145,Aarav Sharma,Face Wash,Beauty,2,399,798,Delhi,UPI
+ORD00200,2025-09-29,CUST0056,Ananya Singh,Moisturizer,Beauty,4,549,2196,Pune,Credit Card
+ORD00201,2025-07-09,CUST0080,Neha Patel,Coffee Maker,Home & Kitchen,1,3299,3299,Bengaluru,Credit Card
+ORD00202,2025-11-13,CUST0013,Vivek Mishra,Bluetooth Speaker,Electronics,4,1999,7996,Chennai,Net Banking
+ORD00203,2025-11-07,CUST0114,Sneha Das,Shampoo,Beauty,2,499,998,Lucknow,UPI
+ORD00204,2025-06-26,CUST0111,Rohan Gupta,Bluetooth Speaker,Electronics,5,1999,9995,Jaipur,Cash on Delivery
+ORD00205,2025-12-08,CUST0079,Rahul Roy,Smart Watch,Electronics,4,3499,13996,Noida,UPI
+ORD00206,2025-01-04,CUST0053,Nikhil Jain,Air Fryer,Home & Kitchen,2,4999,9998,Kolkata,Debit Card
+ORD00207,2025-06-17,CUST0031,Vivek Mishra,USB-C Charger,Electronics,4,899,3596,Bengaluru,Credit Card
+ORD00208,2025-07-14,CUST0137,Karan Malhotra,Hoodie,Clothing,1,1799,1799,Chennai,UPI
+ORD00209,2025-08-12,CUST0005,Aditya Kumar,Face Wash,Beauty,3,399,1197,Noida,Net Banking
+ORD00210,2025-10-21,CUST0104,Riya Kapoor,Shampoo,Beauty,1,499,499,Chennai,UPI
+ORD00211,2025-06-16,CUST0044,Neha Patel,Machine Learning Basics,Books,3,999,2997,Mumbai,Net Banking
+ORD00212,2025-02-24,CUST0063,Arjun Mehta,Moisturizer,Beauty,5,549,2745,Mumbai,Net Banking
+ORD00213,2025-06-08,CUST0087,Aman Khan,Hoodie,Clothing,2,1799,3598,Mumbai,Cash on Delivery
+ORD00214,2025-11-21,CUST0030,Pooja Yadav,Python Programming,Books,3,699,2097,Pune,Credit Card
+ORD00215,2025-05-01,CUST0027,Arjun Mehta,Hoodie,Clothing,2,1799,3598,Bengaluru,Cash on Delivery
+ORD00216,2025-03-20,CUST0168,Sneha Das,Smart Watch,Electronics,4,3499,13996,Jaipur,Cash on Delivery
+ORD00217,2025-10-24,CUST0115,Rahul Roy,Business Analytics,Books,3,799,2397,Bengaluru,Net Banking
+ORD00218,2025-02-04,CUST0121,Vivek Mishra,Shampoo,Beauty,3,499,1497,Noida,UPI
+ORD00219,2025-06-30,CUST0130,Priya Verma,Bluetooth Speaker,Electronics,4,1999,7996,Jaipur,UPI
+ORD00220,2025-01-30,CUST0095,Aditya Kumar,Coffee Maker,Home & Kitchen,1,3299,3299,Noida,Cash on Delivery
+ORD00221,2025-09-17,CUST0099,Arjun Mehta,Face Wash,Beauty,4,399,1596,Noida,Credit Card
+ORD00222,2025-06-14,CUST0155,Karan Malhotra,Sunscreen,Beauty,1,599,599,Jaipur,UPI
+ORD00223,2025-06-25,CUST0022,Priya Verma,Python Programming,Books,1,699,699,Hyderabad,Net Banking
+ORD00224,2025-08-13,CUST0135,Arjun Mehta,Python Programming,Books,3,699,2097,Pune,Debit Card
+ORD00225,2025-07-18,CUST0105,Aman Khan,Coffee Maker,Home & Kitchen,3,3299,9897,Mumbai,Debit Card
+ORD00226,2025-02-18,CUST0143,Nikhil Jain,Shampoo,Beauty,3,499,1497,Noida,Credit Card
+ORD00227,2025-06-20,CUST0021,Rohan Gupta,Python Programming,Books,3,699,2097,Kolkata,Net Banking
+ORD00228,2025-03-08,CUST0153,Arjun Mehta,Bluetooth Speaker,Electronics,5,1999,9995,Chennai,Debit Card
+ORD00229,2025-03-07,CUST0172,Ishita Sen,Data Science Handbook,Books,4,899,3596,Lucknow,Debit Card
+ORD00230,2025-01-10,CUST0093,Rohan Gupta,Air Fryer,Home & Kitchen,2,4999,9998,Pune,Net Banking
+ORD00231,2025-04-09,CUST0058,Priya Verma,Jeans,Clothing,1,1499,1499,Kolkata,UPI
+ORD00232,2025-09-17,CUST0139,Vivek Mishra,Data Science Handbook,Books,3,899,2697,Noida,Credit Card
+ORD00233,2025-11-02,CUST0097,Rahul Roy,Jeans,Clothing,2,1499,2998,Noida,Credit Card
+ORD00234,2025-08-13,CUST0012,Pooja Yadav,Shampoo,Beauty,2,499,998,Jaipur,Cash on Delivery
+ORD00235,2025-05-26,CUST0115,Rahul Roy,Jeans,Clothing,3,1499,4497,Jaipur,Credit Card
+ORD00236,2025-07-08,CUST0174,Pooja Yadav,Machine Learning Basics,Books,4,999,3996,Kolkata,Net Banking
+ORD00237,2025-09-15,CUST0136,Ishita Sen,Sunscreen,Beauty,2,599,1198,Noida,Credit Card
+ORD00238,2025-05-09,CUST0014,Riya Kapoor,Shampoo,Beauty,5,499,2495,Mumbai,Cash on Delivery
+ORD00239,2025-03-05,CUST0073,Aarav Sharma,Smart Watch,Electronics,3,3499,10497,Jaipur,Cash on Delivery
+ORD00240,2025-03-17,CUST0112,Priya Verma,Smart Watch,Electronics,4,3499,13996,Pune,UPI
+ORD00241,2025-08-01,CUST0014,Riya Kapoor,Shampoo,Beauty,2,499,998,Chennai,UPI
+ORD00242,2025-07-11,CUST0058,Priya Verma,Bluetooth Speaker,Electronics,1,1999,1999,Pune,Credit Card
+ORD00243,2025-03-12,CUST0010,Ishita Sen,Non-Stick Pan,Home & Kitchen,2,1299,2598,Jaipur,Net Banking
+ORD00244,2025-11-12,CUST0002,Ananya Singh,Wireless Headphones,Electronics,3,2499,7497,Hyderabad,Credit Card
+ORD00245,2025-10-08,CUST0156,Pooja Yadav,Machine Learning Basics,Books,1,999,999,Kolkata,Credit Card
+ORD00246,2025-06-04,CUST0032,Riya Kapoor,Smart Watch,Electronics,4,3499,13996,Noida,Net Banking
+ORD00247,2025-02-02,CUST0029,Karan Malhotra,Face Wash,Beauty,5,399,1995,Noida,Credit Card
+ORD00248,2025-03-15,CUST0075,Rohan Gupta,Face Wash,Beauty,5,399,1995,Pune,Credit Card
+ORD00249,2025-10-20,CUST0107,Nikhil Jain,T-Shirt,Clothing,5,799,3995,Pune,UPI
+ORD00250,2025-09-27,CUST0140,Riya Kapoor,Data Science Handbook,Books,4,899,3596,Jaipur,UPI
+ORD00251,2025-11-22,CUST0100,Ishita Sen,Water Bottle,Home & Kitchen,1,699,699,Pune,UPI
+ORD00252,2025-06-26,CUST0062,Neha Patel,Bluetooth Speaker,Electronics,2,1999,3998,Delhi,Debit Card
+ORD00253,2025-10-07,CUST0087,Aman Khan,Sneakers,Clothing,4,2499,9996,Bengaluru,Credit Card
+ORD00254,2025-02-02,CUST0118,Ishita Sen,Bluetooth Speaker,Electronics,2,1999,3998,Delhi,Credit Card
+ORD00255,2025-01-22,CUST0081,Arjun Mehta,Non-Stick Pan,Home & Kitchen,5,1299,6495,Jaipur,Debit Card
+ORD00256,2025-01-19,CUST0166,Priya Verma,Hoodie,Clothing,3,1799,5397,Delhi,Debit Card
+ORD00257,2025-05-20,CUST0032,Riya Kapoor,Non-Stick Pan,Home & Kitchen,4,1299,5196,Jaipur,Net Banking
+ORD00258,2025-06-23,CUST0048,Pooja Yadav,Moisturizer,Beauty,3,549,1647,Lucknow,Debit Card
+ORD00259,2025-02-12,CUST0109,Aarav Sharma,USB-C Charger,Electronics,5,899,4495,Bengaluru,Cash on Delivery
+ORD00260,2025-05-31,CUST0083,Karan Malhotra,Wireless Headphones,Electronics,3,2499,7497,Kolkata,Debit Card
+ORD00261,2025-08-17,CUST0155,Karan Malhotra,Sunscreen,Beauty,4,599,2396,Pune,Net Banking
+ORD00262,2025-01-22,CUST0091,Aarav Sharma,Machine Learning Basics,Books,3,999,2997,Delhi,UPI
+ORD00263,2025-12-10,CUST0164,Ananya Singh,Shampoo,Beauty,5,499,2495,Bengaluru,UPI
+ORD00264,2025-03-15,CUST0156,Pooja Yadav,Face Wash,Beauty,2,399,798,Mumbai,Credit Card
+ORD00265,2025-11-27,CUST0094,Priya Verma,Non-Stick Pan,Home & Kitchen,5,1299,6495,Delhi,Cash on Delivery
+ORD00266,2025-03-20,CUST0174,Pooja Yadav,Shampoo,Beauty,3,499,1497,Jaipur,UPI
+ORD00267,2025-10-21,CUST0036,Tanya Bose,Business Analytics,Books,4,799,3196,Pune,Debit Card
+ORD00268,2025-05-08,CUST0030,Pooja Yadav,Smart Watch,Electronics,4,3499,13996,Lucknow,Net Banking
+ORD00269,2025-10-15,CUST0031,Vivek Mishra,Water Bottle,Home & Kitchen,4,699,2796,Hyderabad,Cash on Delivery
+ORD00270,2025-05-27,CUST0178,Simran Kaur,Sunscreen,Beauty,1,599,599,Bengaluru,UPI
+ORD00271,2025-08-20,CUST0045,Arjun Mehta,Face Wash,Beauty,3,399,1197,Pune,UPI
+ORD00272,2025-10-09,CUST0139,Vivek Mishra,Water Bottle,Home & Kitchen,2,699,1398,Bengaluru,Debit Card
+ORD00273,2025-09-18,CUST0058,Priya Verma,Smart Watch,Electronics,2,3499,6998,Hyderabad,Net Banking
+ORD00274,2025-01-14,CUST0093,Rohan Gupta,Business Analytics,Books,4,799,3196,Lucknow,Credit Card
+ORD00275,2025-11-10,CUST0023,Aditya Kumar,Bluetooth Speaker,Electronics,4,1999,7996,Jaipur,Cash on Delivery
+ORD00276,2025-07-30,CUST0105,Aman Khan,Data Science Handbook,Books,2,899,1798,Pune,UPI
+ORD00277,2025-08-19,CUST0120,Pooja Yadav,Business Analytics,Books,2,799,1598,Lucknow,Cash on Delivery
+ORD00278,2025-04-04,CUST0034,Simran Kaur,Face Wash,Beauty,1,399,399,Lucknow,Credit Card
+ORD00279,2025-06-05,CUST0043,Rahul Roy,Hoodie,Clothing,2,1799,3598,Pune,Cash on Delivery
+ORD00280,2025-05-26,CUST0021,Rohan Gupta,Air Fryer,Home & Kitchen,5,4999,24995,Kolkata,Credit Card
+ORD00281,2025-11-17,CUST0078,Sneha Das,Data Science Handbook,Books,5,899,4495,Bengaluru,Cash on Delivery
+ORD00282,2025-10-25,CUST0040,Priya Verma,Hoodie,Clothing,5,1799,8995,Delhi,UPI
+ORD00283,2025-02-11,CUST0012,Pooja Yadav,Business Analytics,Books,2,799,1598,Noida,Net Banking
+ORD00284,2025-11-13,CUST0164,Ananya Singh,USB-C Charger,Electronics,5,899,4495,Kolkata,Debit Card
+ORD00285,2025-09-05,CUST0063,Arjun Mehta,Shampoo,Beauty,4,499,1996,Mumbai,UPI
+ORD00286,2025-03-22,CUST0113,Aditya Kumar,Moisturizer,Beauty,4,549,2196,Hyderabad,Debit Card
+ORD00287,2025-11-07,CUST0037,Aarav Sharma,Water Bottle,Home & Kitchen,3,699,2097,Chennai,Credit Card
+ORD00288,2025-07-09,CUST0132,Sneha Das,Data Science Handbook,Books,3,899,2697,Hyderabad,Net Banking
+ORD00289,2025-03-04,CUST0069,Aman Khan,Sunscreen,Beauty,2,599,1198,Mumbai,UPI
+ORD00290,2025-05-29,CUST0099,Arjun Mehta,Machine Learning Basics,Books,2,999,1998,Bengaluru,Debit Card
+ORD00291,2025-10-23,CUST0081,Arjun Mehta,Jeans,Clothing,4,1499,5996,Lucknow,Net Banking
+ORD00292,2025-09-13,CUST0079,Rahul Roy,Face Wash,Beauty,1,399,399,Chennai,Cash on Delivery
+ORD00293,2025-08-23,CUST0062,Neha Patel,Hoodie,Clothing,1,1799,1799,Delhi,Debit Card
+ORD00294,2025-09-11,CUST0153,Arjun Mehta,Shampoo,Beauty,5,499,2495,Delhi,UPI
+ORD00295,2025-08-09,CUST0035,Nikhil Jain,Water Bottle,Home & Kitchen,4,699,2796,Pune,UPI
+ORD00296,2025-07-25,CUST0014,Riya Kapoor,Python Programming,Books,3,699,2097,Lucknow,Debit Card
+ORD00297,2025-02-07,CUST0099,Arjun Mehta,Machine Learning Basics,Books,5,999,4995,Kolkata,Cash on Delivery
+ORD00298,2025-12-15,CUST0157,Vivek Mishra,Smart Watch,Electronics,1,3499,3499,Chennai,Debit Card
+ORD00299,2025-06-23,CUST0143,Nikhil Jain,Air Fryer,Home & Kitchen,2,4999,9998,Noida,Cash on Delivery
+ORD00300,2025-07-25,CUST0129,Rohan Gupta,Wireless Headphones,Electronics,1,2499,2499,Bengaluru,Debit Card
+ORD00301,2025-08-31,CUST0133,Rahul Roy,Sunscreen,Beauty,5,599,2995,Lucknow,Credit Card
+ORD00302,2025-06-17,CUST0157,Vivek Mishra,Air Fryer,Home & Kitchen,4,4999,19996,Noida,Debit Card
+ORD00303,2025-10-31,CUST0087,Aman Khan,Machine Learning Basics,Books,5,999,4995,Kolkata,Net Banking
+ORD00304,2025-01-09,CUST0095,Aditya Kumar,Coffee Maker,Home & Kitchen,4,3299,13196,Noida,Debit Card
+ORD00305,2025-12-19,CUST0162,Tanya Bose,USB-C Charger,Electronics,3,899,2697,Noida,Cash on Delivery
+ORD00306,2025-04-27,CUST0014,Riya Kapoor,Machine Learning Basics,Books,2,999,1998,Lucknow,Cash on Delivery
+ORD00307,2025-07-14,CUST0038,Ananya Singh,T-Shirt,Clothing,5,799,3995,Mumbai,Credit Card
+ORD00308,2025-01-10,CUST0113,Aditya Kumar,Non-Stick Pan,Home & Kitchen,2,1299,2598,Chennai,Credit Card
+ORD00309,2025-07-30,CUST0129,Rohan Gupta,Machine Learning Basics,Books,1,999,999,Bengaluru,Cash on Delivery
+ORD00310,2025-04-17,CUST0144,Tanya Bose,Non-Stick Pan,Home & Kitchen,5,1299,6495,Chennai,Debit Card
+ORD00311,2025-03-30,CUST0118,Ishita Sen,Business Analytics,Books,5,799,3995,Pune,Debit Card
+ORD00312,2025-11-09,CUST0124,Simran Kaur,Jeans,Clothing,3,1499,4497,Lucknow,Debit Card
+ORD00313,2025-04-26,CUST0077,Aditya Kumar,Air Fryer,Home & Kitchen,4,4999,19996,Pune,Net Banking
+ORD00314,2025-06-28,CUST0144,Tanya Bose,Water Bottle,Home & Kitchen,1,699,699,Noida,Cash on Delivery
+ORD00315,2025-07-14,CUST0102,Pooja Yadav,Air Fryer,Home & Kitchen,3,4999,14997,Delhi,Debit Card
+ORD00316,2025-02-10,CUST0089,Nikhil Jain,Shampoo,Beauty,4,499,1996,Hyderabad,Credit Card
+ORD00317,2025-10-03,CUST0070,Simran Kaur,Business Analytics,Books,2,799,1598,Mumbai,Cash on Delivery
+ORD00318,2025-10-28,CUST0062,Neha Patel,T-Shirt,Clothing,5,799,3995,Hyderabad,Credit Card
+ORD00319,2025-01-27,CUST0026,Neha Patel,Shampoo,Beauty,4,499,1996,Mumbai,Credit Card
+ORD00320,2025-01-03,CUST0141,Aman Khan,Sneakers,Clothing,4,2499,9996,Jaipur,Credit Card
+ORD00321,2025-05-28,CUST0083,Karan Malhotra,Coffee Maker,Home & Kitchen,1,3299,3299,Noida,Credit Card
+ORD00322,2025-10-01,CUST0010,Ishita Sen,Sneakers,Clothing,2,2499,4998,Delhi,Net Banking
+ORD00323,2025-09-11,CUST0048,Pooja Yadav,Coffee Maker,Home & Kitchen,1,3299,3299,Kolkata,Cash on Delivery
+ORD00324,2025-11-05,CUST0028,Ishita Sen,Water Bottle,Home & Kitchen,4,699,2796,Lucknow,Cash on Delivery
+ORD00325,2025-09-10,CUST0035,Nikhil Jain,Machine Learning Basics,Books,3,999,2997,Hyderabad,UPI
+ORD00326,2025-06-19,CUST0042,Sneha Das,Shampoo,Beauty,2,499,998,Delhi,Debit Card
+ORD00327,2025-06-01,CUST0146,Ananya Singh,Jeans,Clothing,5,1499,7495,Chennai,Net Banking
+ORD00328,2025-09-21,CUST0084,Pooja Yadav,USB-C Charger,Electronics,1,899,899,Bengaluru,Credit Card
+ORD00329,2025-09-02,CUST0083,Karan Malhotra,T-Shirt,Clothing,3,799,2397,Chennai,Credit Card
+ORD00330,2025-08-17,CUST0069,Aman Khan,Water Bottle,Home & Kitchen,5,699,3495,Noida,UPI
+ORD00331,2025-05-14,CUST0168,Sneha Das,Air Fryer,Home & Kitchen,1,4999,4999,Mumbai,Net Banking
+ORD00332,2025-06-07,CUST0041,Aditya Kumar,Shampoo,Beauty,1,499,499,Kolkata,Debit Card
+ORD00333,2025-11-11,CUST0057,Rohan Gupta,Jeans,Clothing,4,1499,5996,Bengaluru,Net Banking
+ORD00334,2025-11-07,CUST0096,Sneha Das,Moisturizer,Beauty,5,549,2745,Hyderabad,Credit Card
+ORD00335,2025-12-15,CUST0153,Arjun Mehta,USB-C Charger,Electronics,5,899,4495,Pune,UPI
+ORD00336,2025-10-16,CUST0029,Karan Malhotra,Smart Watch,Electronics,5,3499,17495,Lucknow,Credit Card
+ORD00337,2025-03-26,CUST0084,Pooja Yadav,Machine Learning Basics,Books,1,999,999,Hyderabad,Cash on Delivery
+ORD00338,2025-09-08,CUST0024,Sneha Das,Machine Learning Basics,Books,1,999,999,Jaipur,Credit Card
+ORD00339,2025-09-20,CUST0107,Nikhil Jain,Face Wash,Beauty,5,399,1995,Jaipur,Debit Card
+ORD00340,2025-01-12,CUST0102,Pooja Yadav,Coffee Maker,Home & Kitchen,2,3299,6598,Noida,UPI
+ORD00341,2025-01-24,CUST0109,Aarav Sharma,Coffee Maker,Home & Kitchen,5,3299,16495,Delhi,UPI
+ORD00342,2025-08-30,CUST0009,Arjun Mehta,Non-Stick Pan,Home & Kitchen,2,1299,2598,Bengaluru,Net Banking
+ORD00343,2025-07-11,CUST0098,Neha Patel,Moisturizer,Beauty,4,549,2196,Mumbai,Cash on Delivery
+ORD00344,2025-03-10,CUST0168,Sneha Das,Coffee Maker,Home & Kitchen,2,3299,6598,Lucknow,Net Banking
+ORD00345,2025-09-28,CUST0033,Aman Khan,T-Shirt,Clothing,1,799,799,Kolkata,Net Banking
+ORD00346,2025-12-11,CUST0140,Riya Kapoor,Moisturizer,Beauty,2,549,1098,Hyderabad,Net Banking
+ORD00347,2025-06-27,CUST0040,Priya Verma,Air Fryer,Home & Kitchen,1,4999,4999,Delhi,Net Banking
+ORD00348,2025-11-11,CUST0005,Aditya Kumar,Jeans,Clothing,1,1499,1499,Mumbai,Cash on Delivery
+ORD00349,2025-01-18,CUST0115,Rahul Roy,Data Science Handbook,Books,2,899,1798,Delhi,Net Banking
+ORD00350,2025-08-13,CUST0060,Sneha Das,Python Programming,Books,1,699,699,Bengaluru,Cash on Delivery
+ORD00351,2025-05-29,CUST0060,Sneha Das,Business Analytics,Books,5,799,3995,Noida,Debit Card
+ORD00352,2025-05-02,CUST0078,Sneha Das,Jeans,Clothing,4,1499,5996,Kolkata,Debit Card
+ORD00353,2025-02-01,CUST0143,Nikhil Jain,Python Programming,Books,4,699,2796,Lucknow,Net Banking
+ORD00354,2025-01-25,CUST0089,Nikhil Jain,Shampoo,Beauty,4,499,1996,Chennai,Credit Card
+ORD00355,2025-06-03,CUST0097,Rahul Roy,Sneakers,Clothing,2,2499,4998,Hyderabad,Debit Card
+ORD00356,2025-12-29,CUST0037,Aarav Sharma,Face Wash,Beauty,5,399,1995,Chennai,Net Banking
+ORD00357,2025-10-13,CUST0136,Ishita Sen,Sneakers,Clothing,2,2499,4998,Kolkata,Credit Card
+ORD00358,2025-06-19,CUST0166,Priya Verma,USB-C Charger,Electronics,3,899,2697,Mumbai,Cash on Delivery
+ORD00359,2025-04-08,CUST0014,Riya Kapoor,Non-Stick Pan,Home & Kitchen,5,1299,6495,Noida,UPI
+ORD00360,2025-02-07,CUST0049,Vivek Mishra,Python Programming,Books,4,699,2796,Hyderabad,Debit Card
+ORD00361,2025-06-05,CUST0004,Priya Verma,Jeans,Clothing,1,1499,1499,Jaipur,Credit Card
+ORD00362,2025-12-23,CUST0155,Karan Malhotra,Sneakers,Clothing,2,2499,4998,Lucknow,Debit Card
+ORD00363,2025-05-25,CUST0098,Neha Patel,Shampoo,Beauty,3,499,1497,Kolkata,Debit Card
+ORD00364,2025-09-20,CUST0128,Ananya Singh,Face Wash,Beauty,4,399,1596,Pune,Credit Card
+ORD00365,2025-07-09,CUST0081,Arjun Mehta,Face Wash,Beauty,5,399,1995,Hyderabad,Credit Card
+ORD00366,2025-01-09,CUST0067,Vivek Mishra,Machine Learning Basics,Books,3,999,2997,Bengaluru,Credit Card
+ORD00367,2025-06-18,CUST0059,Aditya Kumar,Sunscreen,Beauty,4,599,2396,Lucknow,Debit Card
+ORD00368,2025-05-12,CUST0126,Tanya Bose,Moisturizer,Beauty,2,549,1098,Pune,Credit Card
+ORD00369,2025-03-13,CUST0140,Riya Kapoor,Sunscreen,Beauty,5,599,2995,Delhi,Cash on Delivery
+ORD00370,2025-01-18,CUST0020,Ananya Singh,Wireless Headphones,Electronics,4,2499,9996,Bengaluru,Credit Card
+ORD00371,2025-02-04,CUST0039,Rohan Gupta,Smart Watch,Electronics,5,3499,17495,Jaipur,Debit Card
+ORD00372,2025-01-31,CUST0159,Aman Khan,Machine Learning Basics,Books,4,999,3996,Delhi,UPI
+ORD00373,2025-09-30,CUST0142,Simran Kaur,Face Wash,Beauty,1,399,399,Lucknow,Debit Card
+ORD00374,2025-10-02,CUST0074,Ananya Singh,USB-C Charger,Electronics,2,899,1798,Mumbai,UPI
+ORD00375,2025-09-26,CUST0039,Rohan Gupta,Jeans,Clothing,5,1499,7495,Lucknow,Debit Card
+ORD00376,2025-07-01,CUST0069,Aman Khan,Face Wash,Beauty,3,399,1197,Chennai,Net Banking
+ORD00377,2025-10-17,CUST0063,Arjun Mehta,Hoodie,Clothing,1,1799,1799,Delhi,UPI
+ORD00378,2025-07-27,CUST0098,Neha Patel,Moisturizer,Beauty,1,549,549,Delhi,Credit Card
+ORD00379,2025-02-12,CUST0128,Ananya Singh,Shampoo,Beauty,5,499,2495,Mumbai,Cash on Delivery
+ORD00380,2025-01-22,CUST0059,Aditya Kumar,Sneakers,Clothing,3,2499,7497,Delhi,UPI
+ORD00381,2025-12-17,CUST0072,Tanya Bose,Data Science Handbook,Books,2,899,1798,Pune,UPI
+ORD00382,2025-04-17,CUST0151,Rahul Roy,Sneakers,Clothing,1,2499,2499,Kolkata,Credit Card
+ORD00383,2025-10-16,CUST0062,Neha Patel,Machine Learning Basics,Books,5,999,4995,Pune,Net Banking
+ORD00384,2025-03-13,CUST0177,Aman Khan,Bluetooth Speaker,Electronics,1,1999,1999,Mumbai,Net Banking
+ORD00385,2025-04-29,CUST0020,Ananya Singh,Non-Stick Pan,Home & Kitchen,3,1299,3897,Delhi,Debit Card
+ORD00386,2025-08-19,CUST0126,Tanya Bose,Hoodie,Clothing,5,1799,8995,Chennai,Net Banking
+ORD00387,2025-04-06,CUST0175,Vivek Mishra,Machine Learning Basics,Books,1,999,999,Noida,Debit Card
+ORD00388,2025-05-07,CUST0019,Aarav Sharma,Bluetooth Speaker,Electronics,2,1999,3998,Chennai,Credit Card
+ORD00389,2025-07-19,CUST0082,Ishita Sen,Coffee Maker,Home & Kitchen,1,3299,3299,Delhi,Debit Card
+ORD00390,2025-08-16,CUST0093,Rohan Gupta,Coffee Maker,Home & Kitchen,2,3299,6598,Mumbai,Credit Card
+ORD00391,2025-08-09,CUST0115,Rahul Roy,Machine Learning Basics,Books,1,999,999,Delhi,UPI
+ORD00392,2025-07-01,CUST0142,Simran Kaur,Bluetooth Speaker,Electronics,4,1999,7996,Delhi,Debit Card
+ORD00393,2025-07-31,CUST0100,Ishita Sen,Smart Watch,Electronics,5,3499,17495,Lucknow,Credit Card
+ORD00394,2025-12-17,CUST0098,Neha Patel,Jeans,Clothing,3,1499,4497,Kolkata,Debit Card
+ORD00395,2025-09-10,CUST0038,Ananya Singh,Smart Watch,Electronics,4,3499,13996,Kolkata,Net Banking
+ORD00396,2025-06-03,CUST0124,Simran Kaur,Bluetooth Speaker,Electronics,3,1999,5997,Hyderabad,Net Banking
+ORD00397,2025-11-01,CUST0158,Riya Kapoor,Sneakers,Clothing,1,2499,2499,Bengaluru,Debit Card
+ORD00398,2025-01-04,CUST0102,Pooja Yadav,Non-Stick Pan,Home & Kitchen,3,1299,3897,Jaipur,Debit Card
+ORD00399,2025-08-09,CUST0167,Aditya Kumar,Python Programming,Books,3,699,2097,Pune,Cash on Delivery
+ORD00400,2025-12-22,CUST0052,Simran Kaur,Shampoo,Beauty,2,499,998,Chennai,Debit Card
+ORD00401,2025-05-30,CUST0178,Simran Kaur,Sunscreen,Beauty,3,599,1797,Chennai,Debit Card
+ORD00402,2025-07-21,CUST0094,Priya Verma,Smart Watch,Electronics,5,3499,17495,Lucknow,Credit Card
+ORD00403,2025-12-16,CUST0141,Aman Khan,USB-C Charger,Electronics,2,899,1798,Jaipur,Debit Card
+ORD00404,2025-12-21,CUST0018,Tanya Bose,Moisturizer,Beauty,2,549,1098,Kolkata,Credit Card
+ORD00405,2025-05-10,CUST0169,Rahul Roy,Sneakers,Clothing,4,2499,9996,Mumbai,Net Banking
+ORD00406,2025-11-03,CUST0123,Aman Khan,Machine Learning Basics,Books,5,999,4995,Lucknow,Net Banking
+ORD00407,2025-10-06,CUST0010,Ishita Sen,Coffee Maker,Home & Kitchen,1,3299,3299,Hyderabad,Debit Card
+ORD00408,2025-03-27,CUST0166,Priya Verma,Data Science Handbook,Books,5,899,4495,Chennai,Debit Card
+ORD00409,2025-08-09,CUST0028,Ishita Sen,Wireless Headphones,Electronics,3,2499,7497,Hyderabad,Cash on Delivery
+ORD00410,2025-09-23,CUST0143,Nikhil Jain,Python Programming,Books,4,699,2796,Pune,Net Banking
+ORD00411,2025-08-26,CUST0174,Pooja Yadav,Python Programming,Books,3,699,2097,Delhi,Net Banking
+ORD00412,2025-02-23,CUST0076,Priya Verma,Face Wash,Beauty,1,399,399,Bengaluru,Debit Card
+ORD00413,2025-06-09,CUST0088,Simran Kaur,Sunscreen,Beauty,5,599,2995,Jaipur,Debit Card
+ORD00414,2025-09-01,CUST0025,Rahul Roy,Moisturizer,Beauty,3,549,1647,Mumbai,Debit Card
+ORD00415,2025-01-23,CUST0030,Pooja Yadav,Bluetooth Speaker,Electronics,1,1999,1999,Bengaluru,Credit Card
+ORD00416,2025-09-22,CUST0045,Arjun Mehta,Python Programming,Books,3,699,2097,Lucknow,Net Banking
+ORD00417,2025-08-25,CUST0060,Sneha Das,Sunscreen,Beauty,2,599,1198,Chennai,Net Banking
+ORD00418,2025-01-15,CUST0158,Riya Kapoor,Sneakers,Clothing,5,2499,12495,Chennai,Net Banking
+ORD00419,2025-01-03,CUST0055,Aarav Sharma,Hoodie,Clothing,1,1799,1799,Noida,UPI
+ORD00420,2025-10-02,CUST0048,Pooja Yadav,Water Bottle,Home & Kitchen,2,699,1398,Jaipur,UPI
+ORD00421,2025-05-15,CUST0172,Ishita Sen,Shampoo,Beauty,5,499,2495,Chennai,Cash on Delivery
+ORD00422,2025-07-20,CUST0151,Rahul Roy,Bluetooth Speaker,Electronics,3,1999,5997,Jaipur,Cash on Delivery
+ORD00423,2025-03-30,CUST0173,Karan Malhotra,Coffee Maker,Home & Kitchen,2,3299,6598,Pune,UPI
+ORD00424,2025-05-03,CUST0079,Rahul Roy,Smart Watch,Electronics,3,3499,10497,Bengaluru,Cash on Delivery
+ORD00425,2025-07-18,CUST0108,Tanya Bose,Python Programming,Books,5,699,3495,Chennai,Net Banking
+ORD00426,2025-04-06,CUST0125,Nikhil Jain,Python Programming,Books,5,699,3495,Bengaluru,Net Banking
+ORD00427,2025-05-28,CUST0036,Tanya Bose,Hoodie,Clothing,4,1799,7196,Noida,UPI
+ORD00428,2025-07-03,CUST0003,Rohan Gupta,Sunscreen,Beauty,2,599,1198,Chennai,Cash on Delivery
+ORD00429,2025-09-16,CUST0168,Sneha Das,Moisturizer,Beauty,4,549,2196,Chennai,Net Banking
+ORD00430,2025-09-08,CUST0043,Rahul Roy,Wireless Headphones,Electronics,2,2499,4998,Kolkata,UPI
+ORD00431,2025-05-21,CUST0058,Priya Verma,Business Analytics,Books,2,799,1598,Jaipur,Cash on Delivery
+ORD00432,2025-09-11,CUST0141,Aman Khan,Data Science Handbook,Books,5,899,4495,Mumbai,Debit Card
+ORD00433,2025-10-06,CUST0094,Priya Verma,Data Science Handbook,Books,4,899,3596,Lucknow,Credit Card
+ORD00434,2025-08-06,CUST0027,Arjun Mehta,Hoodie,Clothing,1,1799,1799,Jaipur,Debit Card
+ORD00435,2025-06-28,CUST0023,Aditya Kumar,Face Wash,Beauty,2,399,798,Hyderabad,Cash on Delivery
+ORD00436,2025-12-19,CUST0090,Tanya Bose,Machine Learning Basics,Books,2,999,1998,Noida,Credit Card
+ORD00437,2025-04-16,CUST0053,Nikhil Jain,Bluetooth Speaker,Electronics,5,1999,9995,Kolkata,Cash on Delivery
+ORD00438,2025-10-03,CUST0044,Neha Patel,Water Bottle,Home & Kitchen,3,699,2097,Noida,Debit Card
+ORD00439,2025-09-21,CUST0174,Pooja Yadav,Smart Watch,Electronics,4,3499,13996,Delhi,Debit Card
+ORD00440,2025-12-02,CUST0033,Aman Khan,Jeans,Clothing,2,1499,2998,Pune,Credit Card
+ORD00441,2025-12-13,CUST0101,Karan Malhotra,Sunscreen,Beauty,5,599,2995,Kolkata,Net Banking
+ORD00442,2025-07-12,CUST0116,Neha Patel,Wireless Headphones,Electronics,4,2499,9996,Lucknow,Debit Card
+ORD00443,2025-12-22,CUST0095,Aditya Kumar,Moisturizer,Beauty,3,549,1647,Noida,UPI
+ORD00444,2025-02-17,CUST0118,Ishita Sen,Coffee Maker,Home & Kitchen,5,3299,16495,Chennai,Credit Card
+ORD00445,2025-08-08,CUST0055,Aarav Sharma,Shampoo,Beauty,3,499,1497,Kolkata,Debit Card
+ORD00446,2025-10-08,CUST0148,Priya Verma,Sneakers,Clothing,3,2499,7497,Delhi,UPI
+ORD00447,2025-02-20,CUST0161,Nikhil Jain,Face Wash,Beauty,1,399,399,Bengaluru,Net Banking
+ORD00448,2025-08-22,CUST0001,Aarav Sharma,Sunscreen,Beauty,2,599,1198,Kolkata,Credit Card
+ORD00449,2025-05-21,CUST0024,Sneha Das,Water Bottle,Home & Kitchen,1,699,699,Pune,Credit Card
+ORD00450,2025-01-27,CUST0102,Pooja Yadav,Air Fryer,Home & Kitchen,4,4999,19996,Mumbai,UPI
+ORD00451,2025-01-01,CUST0055,Aarav Sharma,Face Wash,Beauty,2,399,798,Noida,Credit Card
+ORD00452,2025-09-23,CUST0175,Vivek Mishra,Face Wash,Beauty,1,399,399,Pune,UPI
+ORD00453,2025-08-05,CUST0178,Simran Kaur,Sneakers,Clothing,1,2499,2499,Hyderabad,Net Banking
+ORD00454,2025-02-15,CUST0027,Arjun Mehta,Bluetooth Speaker,Electronics,3,1999,5997,Kolkata,Credit Card
+ORD00455,2025-07-15,CUST0035,Nikhil Jain,T-Shirt,Clothing,5,799,3995,Noida,UPI
+ORD00456,2025-11-09,CUST0167,Aditya Kumar,Sneakers,Clothing,3,2499,7497,Hyderabad,Credit Card
+ORD00457,2025-07-30,CUST0158,Riya Kapoor,Sunscreen,Beauty,1,599,599,Mumbai,Credit Card
+ORD00458,2025-03-05,CUST0151,Rahul Roy,Shampoo,Beauty,4,499,1996,Pune,Credit Card
+ORD00459,2025-05-07,CUST0071,Nikhil Jain,Smart Watch,Electronics,5,3499,17495,Noida,Cash on Delivery
+ORD00460,2025-11-08,CUST0073,Aarav Sharma,Bluetooth Speaker,Electronics,2,1999,3998,Lucknow,Cash on Delivery
+ORD00461,2025-09-18,CUST0049,Vivek Mishra,Shampoo,Beauty,1,499,499,Hyderabad,Net Banking
+ORD00462,2025-07-17,CUST0029,Karan Malhotra,Sneakers,Clothing,5,2499,12495,Mumbai,Cash on Delivery
+ORD00463,2025-01-07,CUST0093,Rohan Gupta,Air Fryer,Home & Kitchen,4,4999,19996,Noida,Net Banking
+ORD00464,2025-07-07,CUST0140,Riya Kapoor,Sneakers,Clothing,1,2499,2499,Delhi,Cash on Delivery
+ORD00465,2025-02-04,CUST0004,Priya Verma,Air Fryer,Home & Kitchen,1,4999,4999,Delhi,Net Banking
+ORD00466,2025-09-17,CUST0074,Ananya Singh,Machine Learning Basics,Books,4,999,3996,Chennai,UPI
+ORD00467,2025-11-24,CUST0138,Pooja Yadav,Python Programming,Books,3,699,2097,Mumbai,Debit Card
+ORD00468,2025-02-10,CUST0131,Aditya Kumar,Jeans,Clothing,5,1499,7495,Pune,Net Banking
+ORD00469,2025-10-28,CUST0163,Aarav Sharma,Bluetooth Speaker,Electronics,4,1999,7996,Hyderabad,UPI
+ORD00470,2025-05-06,CUST0023,Aditya Kumar,Face Wash,Beauty,4,399,1596,Noida,Cash on Delivery
+ORD00471,2025-01-29,CUST0080,Neha Patel,T-Shirt,Clothing,1,799,799,Bengaluru,UPI
+ORD00472,2025-03-25,CUST0128,Ananya Singh,Water Bottle,Home & Kitchen,2,699,1398,Pune,Credit Card
+ORD00473,2025-05-18,CUST0031,Vivek Mishra,Bluetooth Speaker,Electronics,4,1999,7996,Kolkata,Cash on Delivery
+ORD00474,2025-02-02,CUST0068,Riya Kapoor,Data Science Handbook,Books,4,899,3596,Jaipur,Cash on Delivery
+ORD00475,2025-07-04,CUST0015,Aman Khan,Sunscreen,Beauty,3,599,1797,Bengaluru,Debit Card
+ORD00476,2025-02-22,CUST0147,Rohan Gupta,Smart Watch,Electronics,5,3499,17495,Delhi,UPI
+ORD00477,2025-01-07,CUST0063,Arjun Mehta,USB-C Charger,Electronics,3,899,2697,Chennai,Credit Card
+ORD00478,2025-04-02,CUST0010,Ishita Sen,Machine Learning Basics,Books,2,999,1998,Pune,Credit Card
+ORD00479,2025-08-02,CUST0082,Ishita Sen,Coffee Maker,Home & Kitchen,5,3299,16495,Pune,UPI
+ORD00480,2025-09-15,CUST0173,Karan Malhotra,Smart Watch,Electronics,2,3499,6998,Lucknow,UPI
+ORD00481,2025-07-25,CUST0018,Tanya Bose,Shampoo,Beauty,3,499,1497,Pune,UPI
+ORD00482,2025-10-11,CUST0117,Arjun Mehta,Bluetooth Speaker,Electronics,2,1999,3998,Kolkata,Cash on Delivery
+ORD00483,2025-06-05,CUST0160,Simran Kaur,Sneakers,Clothing,3,2499,7497,Noida,Net Banking
+ORD00484,2025-04-11,CUST0140,Riya Kapoor,Jeans,Clothing,1,1499,1499,Chennai,UPI
+ORD00485,2025-04-30,CUST0139,Vivek Mishra,Coffee Maker,Home & Kitchen,3,3299,9897,Delhi,Net Banking
+ORD00486,2025-06-07,CUST0027,Arjun Mehta,Jeans,Clothing,4,1499,5996,Jaipur,UPI
+ORD00487,2025-03-14,CUST0072,Tanya Bose,Wireless Headphones,Electronics,2,2499,4998,Lucknow,Net Banking
+ORD00488,2025-12-25,CUST0096,Sneha Das,Face Wash,Beauty,5,399,1995,Mumbai,Cash on Delivery
+ORD00489,2025-03-10,CUST0164,Ananya Singh,Face Wash,Beauty,5,399,1995,Noida,UPI
+ORD00490,2025-08-11,CUST0170,Neha Patel,Jeans,Clothing,3,1499,4497,Kolkata,Debit Card
+ORD00491,2025-07-21,CUST0180,Tanya Bose,Water Bottle,Home & Kitchen,4,699,2796,Kolkata,Credit Card
+ORD00492,2025-02-08,CUST0052,Simran Kaur,T-Shirt,Clothing,2,799,1598,Mumbai,Credit Card
+ORD00493,2025-08-19,CUST0120,Pooja Yadav,Non-Stick Pan,Home & Kitchen,1,1299,1299,Lucknow,Debit Card
+ORD00494,2025-04-17,CUST0116,Neha Patel,Non-Stick Pan,Home & Kitchen,3,1299,3897,Mumbai,UPI
+ORD00495,2025-03-22,CUST0176,Riya Kapoor,Coffee Maker,Home & Kitchen,2,3299,6598,Pune,Credit Card
+ORD00496,2025-02-16,CUST0064,Ishita Sen,Non-Stick Pan,Home & Kitchen,5,1299,6495,Delhi,Debit Card
+ORD00497,2025-05-14,CUST0045,Arjun Mehta,USB-C Charger,Electronics,4,899,3596,Lucknow,Cash on Delivery
+ORD00498,2025-05-08,CUST0025,Rahul Roy,Face Wash,Beauty,2,399,798,Mumbai,UPI
+ORD00499,2025-02-01,CUST0057,Rohan Gupta,Jeans,Clothing,4,1499,5996,Pune,UPI
+ORD00500,2025-10-26,CUST0151,Rahul Roy,Coffee Maker,Home & Kitchen,1,3299,3299,Mumbai,Credit Card
